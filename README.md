@@ -21,6 +21,13 @@ We can use causal inference to understand the effects and determine the effect o
 ### Cumulative effect, showing the summation of the point effects accumulated over time
 <img src='OOH_images/cumulative.png' width=600>
 
+### Results
+The model and report confirm that the cause for the lift in downloads was the introduction of the TV campaign.
+<img src='OOH_images/download_summary.png' width=600>
+
+
+It had an effect of new downloads with a 95& confidence interval. 
+
 
 
 
