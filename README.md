@@ -10,7 +10,9 @@ I used Python and Pandas to clean and explore the data, along with Google's R pa
 ### Question
 What was the impact of our offline campaign? In a digital world of tracking cookies and clicks, measuring the impact of hard-to-measure marketing efforts can be a challenging task. 
 
-We can use causal inference to understand the effects and determine the effect of the insertion of the campaign and whether it impacted acquisition KPIs. We can fit a model using Bayesian structural time series to make predictions on how acquisition metrics would have performed had the intervention of the TV campaign not taken place. Data is divided into 2 parts: the period before the campaign (pre-period) and the period after the campaign start (post-period). 
+We can use causal inference to understand the effects and determine the effect of the insertion of the campaign and whether it impacted acquisition KPIs. We can fit a model using Bayesian structural time series to make predictions on how acquisition metrics would have performed had the intervention of the TV campaign not taken place. 
+
+Data is divided into 2 parts: the period before the campaign (pre-period) and the period after the campaign start (post-period). 
 
 ### Performance over time
 <img src='OOH_images/Performance.png' width=700>
