@@ -16,9 +16,11 @@ We can use causal inference to understand the effects and determine the effect o
 <img src='OOH_images/Performance.png' width=700>
 
 ### Difference between the actual series and the predicted series
-<img src='OOH_images/causalimpact_downloads.png' width=700>
+<img src='OOH_images/pointwise.png' width=600>
 
 ### Cumulative effect, showing the summation of the point effects accumulated over time
+<img src='OOH_images/cumulative.png' width=600>
+
 
 
 
