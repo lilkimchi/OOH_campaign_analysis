@@ -13,10 +13,10 @@ How do we understand the impact of an offline campaign? In a digital world of tr
 We can use causal inference to understand the effects and determine the effect of the insertion of the campaign and whether it impacted acquisition KPIs. We can fit a model using Bayesian structural time series to make predictions on how acquisition metrics would have performed had the intervention of the TV campaign not taken place. Data is divided into 2 parts: the period before the campaign (pre-period) and the period after the campaign start (post-period). 
 
 ### Performance over time
-<img src='visualizations/views2.gif' width=700>
+<img src='OOH_images/Performance.png' width=700>
 
 ### Difference between the actual series and the predicted series
-<img src='visualizations/views2.gif' width=700>
+<img src='OOH_images/causalimpact_downloads.png' width=700>
 
 ### Cumulative effect, showing the summation of the point effects accumulated over time
 
