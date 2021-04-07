@@ -26,7 +26,7 @@ The model and report confirm that the cause for the lift in downloads was the in
 <img src='OOH_images/download_summary.png' width=600>
 
 
-It had an effect of 3598 new downloads with a 95& confidence interval. 
+It had an effect of 3598 new downloads with a 95% confidence interval. 
 
 
 
